@@ -10,7 +10,7 @@ name = "deadlymeagerdiscussion"
 version = "0.1.0"
 [tool.poetry.dependencies]
 airtable-python-wrapper = "^0.13.0"
-flask = "^1.1"
+flask = "^2.3"
 flask-simple-geoip = "^0.1.1"
 geopy = "^1.21"
 python = "^3.8"
